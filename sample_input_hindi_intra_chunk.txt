@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	नरेश	NNP	<fs af='नरेश,n,m,sg,3,d,0,0' posn='10' drel='nmod__adj:बाबू' chunkType='child:NP' name='नरेश'>
+2	बाबू	NN	<fs af='बाबू,n,m,sg,3,o,0_का,0' drel='r6:नौकरी' posn='20' vpos='vib_vib_3' name='बाबू' chunkId='NP' chunkType='head:NP'>
+3	की	PSP	<fs af='का,psp,f,sg,,d,,' posn='30' drel='lwg__psp:बाबू' chunkType='child:NP' name='की'>
+4	नौकरी	NN	<fs af='नौकरी,n,f,sg,3,d,0,0' drel='k2:लग' posn='40' name='नौकरी' chunkId='NP2' chunkType='head:NP2'>
+5	शहर	NN	<fs af='शहर,n,m,sg,3,o,0_में,0' drel='k7p:लग' posn='50' vpos='vib_2' name='शहर' chunkId='NP3' chunkType='head:NP3'>
+6	में	PSP	<fs af='में,psp,,,,,,' posn='60' drel='lwg__psp:शहर' chunkType='child:NP3' name='में'>
+7	लग	VM	<fs af='लग,v,any,sg,any,,0_जा+या1,0' stype='declarative' posn='70' voicetype='active' vpos='tam_2' name='लग' chunkId='VGF' chunkType='head:VGF'>
+8	गयी	VAUX	<fs af='जा,v,f,sg,any,,या1,yA1' posn='80' drel='lwg__vaux:लग' chunkType='child:VGF' name='गयी'>
+9	।	SYM	<fs af='।,punc,,,,,,' drel='rsym:लग' posn='90' name='।' chunkId='BLK' chunkType='head:BLK'>
+</Sentence>
+
